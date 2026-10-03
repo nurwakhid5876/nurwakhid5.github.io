@@ -1,0 +1,8 @@
+{
+  "name": "Remix E-Modul Interaktif Relasi \u0026 Fungsi Kelas VIII",
+  "description": "E-Modul Digital Interaktif Mengungkap Rahasia Relasi \u0026 Fungsi Matematika SMP/MTs Kelas VIII berbasis Problem Based Learning (PBL) untuk Kemampuan Berpikir Kritis oleh Nur Wakhid, S.Pd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
